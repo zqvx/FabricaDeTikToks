@@ -1,13 +1,8 @@
 # 🎬 CreatorFlow — TikTok Creator Publishing Tool
 
-CreatorFlow is a creator publishing tool that helps TikTok users preview, configure and share their original videos to TikTok.
+CreatorFlow is a creator publishing tool designed to help TikTok creators prepare and share their original video content.
 
-The application allows creators to:
-- **Preview** their content before publishing
-- **Edit titles** and captions
-- **Configure privacy settings**
-- **Control interactions** (comments, duet, stitch)
-- **Manually confirm** each post before publishing
+The application allows users to preview their content, configure privacy settings, control interaction permissions, and manually confirm posts before sharing them to their TikTok profile.
 
 > ⚠️ **CreatorFlow does not automate posting without user interaction.**
 > Users must manually review and confirm each post before publishing.
@@ -113,3 +108,5 @@ CreatorFlow is designed for **manual, user-initiated publishing only**.
 - No background processes publish on the user's behalf
 - All posts are reviewed by the user before submission to TikTok
 - CreatorFlow acts as a configuration and preview interface, not an automation bot
+- CreatorFlow does not add watermarks, logos, promotional overlays, or modify the creator's content in any way before publishing to TikTok
+- The application retrieves creator information from the TikTok API and displays the creator's nickname so users clearly know which TikTok account the content will be published to
